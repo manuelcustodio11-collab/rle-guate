@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 book:
-  title: "Threatened ecosystems of Ruritania"
+  title: "Threatened ecosystems of Guate"
   subtitle: An IUCN Red List of Ecosystems Assessment
   date: "1234-12-31"
   sidebar:
@@ -52,7 +52,7 @@ show-instructions: true
 tbl-cap-location: top
 
 # Content Constants
-country-name: Ruritania
+country-name: Guate
 country-code: XX  # https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 version: 0.1
 year: 1234
